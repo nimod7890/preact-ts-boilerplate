@@ -1,2 +1,2 @@
-# react-ts-boilerplate
-React.js + Typescript Template project
+# preact-ts-boilerplate
+template repository
